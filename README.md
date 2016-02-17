@@ -1,2 +1,2 @@
-# Servidor
-Servidor de la aplicación, desarrollado en Java
+# Plantilla Sring
+Plantilla para iniciar los proyectos de Spring y desplegarlos en Heroku VERU USEFULL XDXD
